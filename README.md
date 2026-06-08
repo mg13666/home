@@ -38,11 +38,6 @@
 - FontAwesome 4.7
 - PWA (Service Worker)
 
-## 联系
-
-- QQ: 2585649532
-- Email: web@email.heheda.top
-
 ## 鸣谢
 
 原创页面：赵彤刚 | 二改：娃哈哈
