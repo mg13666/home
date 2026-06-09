@@ -1,6 +1,6 @@
 // 主题音乐播放器 — 纯自动播放：HTML 内嵌静音 helper + JS 过渡
 (function () {
-    var bgmUrl = "./heheda/audio/bgm.mp3";
+    var bgmUrl = "https://cdn.jsdelivr.net/gh/mg13666/home@main/heheda/audio/bgm.mp3";
     var ap = null;
 
     document.addEventListener("DOMContentLoaded", function () {
@@ -24,12 +24,6 @@
                     artist: "AC娘本体",
                     url: bgmUrl,
                     cover: "https://p2.music.126.net/33D6FmhWrHdmOQ_K7iTPYA==/109951169136663937.jpg"
-                },
-                {
-                    name: "本地音乐 ②",
-                    artist: "未知",
-                    url: "./heheda/audio/2.mp3",
-                    cover: "https://p2.music.126.net/diXRlQW2zDRoPd7A1ZaMUg==/109951168506953455.jpg"
                 }
             ]
         });
